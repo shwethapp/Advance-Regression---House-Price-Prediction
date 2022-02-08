@@ -1,5 +1,3 @@
-# Advanced-Regression-House-Price-Prediction
-
 # Project Name
 > Advance Regression For House Price Prediction
 
