@@ -1,5 +1,5 @@
-# Project Name
-> Advance Regression For House Price Prediction
+# Advance Regression For House Price Prediction
+
 
 
 ## Table of Contents
