@@ -16,10 +16,9 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
 - The company wants to know:
 
-
-* Which variables are significant in predicting the price of a house, and
-* How well those variables describe the price of a house.
-* Also, determine the optimal value of lambda for ridge and lasso regression.
+ 1. Which variables are significant in predicting the price of a house, and
+ 2. How well those variables describe the price of a house.
+ 3. Also, determine the optimal value of lambda for ridge and lasso regression.
 
 - Business Goal
 
