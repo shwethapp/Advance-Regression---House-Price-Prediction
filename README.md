@@ -1,4 +1,4 @@
-# Advance Regression For House Price Prediction
+# Advanced Regression For House Price Prediction
 
 
 
